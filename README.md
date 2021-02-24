@@ -1,4 +1,7 @@
-# taskmgr
+# taskmgr 
+This is a sample "todo" application using Node.js,Mongodb,ExpressJS and AngularJS.
+
+Let us start by following the steps.---->
 If you are willing to create many projects, then it is good idea to create a folder “PROJECTS” under which you can create your projects.
 Let us assume our project name is “TASKMGR”, then create two subfolders called “backend” and “frontend”. Also create server.js which is the file initiated to start our server, which has access to both “frontend” and “backend”
 Run the command NPM INIT in “TASKMGR” folder to setup your project details. This will create a file called package.json. Please give “enter” if you want the default settings. Later install depended modules and save it to “package.json” as dependencies.
