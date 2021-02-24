@@ -9,3 +9,4 @@ Install express,code-parser and mongoose driver for the following project.
 NPM install mongoose –save
 NPM install code-parser –save
 Now you have your “package.json” created and “Node_Modules” folder also created under “TASKMGR” folder.
+ Now start server by "Node server.js" in command prompt. Enjoy!
